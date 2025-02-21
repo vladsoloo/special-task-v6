@@ -15,5 +15,5 @@ def print_numbers_less_than_a(a):
 
 a = float(input("Введите число a: "))
 
-# Вызов функции
+
 print_numbers_less_than_a(a)
